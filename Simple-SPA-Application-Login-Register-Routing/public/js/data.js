@@ -46,9 +46,6 @@ var data = function () {
         users: {
             register: register,
             login: login
-        },
-        todos: {
-            get: todosGet
         }
     };
 }();
